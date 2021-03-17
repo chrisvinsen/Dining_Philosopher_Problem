@@ -1,2 +1,3 @@
-# Dining_Philosopher_Problem
-Dining Philosopher Solutions Using Semaphore written in C
+# Dining Philosopher Problem
+Dining Philosopher Problem Solutions Using Semaphore 
+Written in C
